@@ -1,5 +1,6 @@
 # ckeditor-basic
-Use CKEditor by CDN with simple toolbar in 3 steps:
+__Checkout [live preview](https://thesefat.github.io/ckeditor-basic/).__ <br> 
+### Use CKEditor by CDN with simple toolbar in 3 steps:
 
 - __STEP 1__ - Add CDN into root of html file, it could be `index.html`
 ```
