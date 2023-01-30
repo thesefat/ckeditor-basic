@@ -13,7 +13,7 @@ __Checkout [live preview](https://thesefat.github.io/ckeditor-basic/).__ <br>
 <script type="text/javascript">
   CKEDITOR.config.toolbar =
   [
-   ['Styles', 'Format', 'Font', 'FontSize'],
+   ['Styles', 'Format', 'Font', 'FontSize', 'TextColor'],
    ['Bold', 'Italic', 'Underline', 'StrikeThrough'],
    ['NumberedList', 'BulletedList', '-', 'JustifyLeft', 'JustifyCenter', 'JustifyRight', 'JustifyBlock'],
   ];
